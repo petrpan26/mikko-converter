@@ -1,0 +1,1 @@
+("6.11" ("bbfe1b1023a9428c4ef0c9c667cbcc2d9863c7d0" . "87a12c7dc97223cb3e33b3ab8d8784def70cff19") (collects #"pict" #"main.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket-poppler" #"main.rkt"))
