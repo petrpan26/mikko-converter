@@ -1,1 +1,0 @@
-("6.11" ("152743f598b13ae5ecc1d2106b3d4fb0e3bfd888" . "f1bc2a4c0e728dde0413d7d5341d5325dc87af33") (collects #"mikko-converter" #"converter.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket-poppler" #"main.rkt") (collects #"slideshow" #"pict.rkt"))
